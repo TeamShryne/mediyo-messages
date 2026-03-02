@@ -1,0 +1,49 @@
+# 🚧 AuraMusic v3.0 — Work in Progress
+
+Yep. We’re already working on **v3.0**.  
+This is a **major update** with a complete UI overhaul and deep internal changes.
+
+v3.0 is focused on making AuraMusic feel more modern, consistent, and powerful while improving everything that already exists.
+
+---
+
+## 🎨 UI & Design Changes
+
+- Complete **Material Design–based UI overhaul**
+- Migrating to **React Native Paper** for a cleaner and more consistent design system
+- New layouts, components, and interactions across the app
+- Overall UI is being redesigned from scratch (not just tweaks)
+
+This update changes how AuraMusic looks and feels entirely.
+
+---
+
+## ⚙️ Core Improvements
+
+- **New extraction logic**  
+  More reliable, cleaner, and easier to extend going forward.
+
+- **Podcast support added**  
+  AuraMusic will no longer be just about music.
+
+- Improvements to all existing features  
+  Playback, playlists, downloads, navigation — everything is being refined.
+
+Nothing is being removed, things are being rebuilt better.
+
+---
+
+## 🎯 Goal for v3.0
+
+- Modern Material-style UI
+- Better internal architecture
+- Easier future feature additions
+- More stability and long-term maintainability
+
+This is a big rewrite, so it will take time, but it’s worth it.
+
+---
+
+More details will be shared as development progresses.
+
+— (**Team AuraMusic**)[https://github.com/Shrawan13-glitch/AuramusicExpo]
