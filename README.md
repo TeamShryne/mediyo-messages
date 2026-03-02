@@ -1,4 +1,4 @@
-# AuraMusic Messages
+# Mediyo Messages
 
 This repository contains messages, announcements, and updates for the AuraMusic app.
 
