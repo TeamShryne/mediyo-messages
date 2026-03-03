@@ -1,48 +1,6 @@
 {
   "messages": [
     {
-      "id": "v3.0coming",
-      "title": "v3.0 - Coming soon",
-      "type": "announcements",
-      "date": "2026-02-04",
-      "url": "https://shrawan13-glitch.github.io/auramusic-messages/announcements/v3.0_upcoming"
-    },
-    {
-      "id": "v2.1.0",
-      "title": "v2.1.0 is here!!",
-      "type": "update",
-      "date": "2026-12-08",
-      "url": "https://shrawan13-glitch.github.io/auramusic-messages/updates/version_2.1.0.md"
-    },
-    {
-      "id": "strict_v2.0.2",
-      "title": "Incoming Strict Update v2.0.2",
-      "type": "alert",
-      "date": "2026-12-06",
-      "url": "https://shrawan13-glitch.github.io/auramusic-messages/alerts/strict_v2.0.2.md"
-    },
-    {
-      "id": "v2.0.1",
-      "title": "Auramusic v2.0.1 out!",
-      "type": "update",
-      "date": "2026-12-05",
-      "url": "https://shrawan13-glitch.github.io/auramusic-messages/updates/version_2.0.1.md"
-    },
-    {
-      "id": "v2.0",
-      "title": "Last update of the year. But...",
-      "type": "update",
-      "date": "2025-10-31",
-      "url": "https://shrawan13-glitch.github.io/auramusic-messages/updates/version_2.0.md"
-    },
-    {
-      "id": "v1.9",
-      "title": "AuraMusic v1.9 is Here",
-      "type": "update",
-      "date": "2025-10-29",
-      "url": "https://shrawan13-glitch.github.io/auramusic-messages/updates/version_1.9.md"
-    },
-    {
       "id": "welcome",
       "title": "Welcome to AuraMusic Messages",
       "type": "announcement",
